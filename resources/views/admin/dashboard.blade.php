@@ -1,5 +1,5 @@
 @extends('layouts.admin.app')
-
+@section('pageTitle', 'Dashboard')
 @section('content')
 <div class="content-wrapper">
       <div class="container-full">
